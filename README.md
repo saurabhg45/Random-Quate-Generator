@@ -1,4 +1,4 @@
-## Quote Generator
+# Quote Generator
 
 This is a simple Quote Generator web application that retrieves and displays quotes based on a selected category. The project utilizes the API Ninjas Quotes API to fetch quotes. Users can select a category (e.g., love, friendship, motivation) to receive a relevant quote.
 
